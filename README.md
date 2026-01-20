@@ -1,5 +1,7 @@
 # 🛒 Retail Sales Analysis — SQL & Dashboard Project
 
+🔗 **Live Dashboard:** https://deepvejpara.github.io/Bussiness_Case_Study/
+
 This project simulates a **real-world Business Analyst task** where transactional retail data is analyzed using **SQL** and then visualized using **Excel or Power BI** to support **sales strategy and decision-making**.
 
 ---
